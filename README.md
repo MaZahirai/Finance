@@ -5,7 +5,7 @@
 - numpy == 1.19.4
 - pandas == 0.25.1
 - scikit_learn == 0.21.3
-- torch == 1.8.0
+- torch == 2.3.1+cu121
 
 
 execute on command line 
